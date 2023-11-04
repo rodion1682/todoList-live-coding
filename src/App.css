@@ -1,0 +1,23 @@
+.App {
+	padding: 20px;
+}
+
+.App label {
+	font-weight: bold;
+}
+
+.todoList {
+	max-width: 600px;
+}
+.todoItemContainer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.todoItemActions button {
+	margin: 5px;
+}
+
+.selected {
+	text-decoration: line-through;
+}
